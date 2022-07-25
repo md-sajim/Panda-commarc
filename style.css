@@ -11,8 +11,9 @@ body {
     color: white;
     /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
     box-shadow: 0 0 20px #eee;
-    border-radius: 10px;
-    background-image: linear-gradient(to right, #f6d365 0%, #fda085 25%, #f6d46563 50%);
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-image: linear-gradient(to right, #f66565 0%, #c96a50 25%, #f68c6563 50%);
 }
 
 .but-gradent:hover {

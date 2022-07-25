@@ -15,7 +15,3 @@ body {
     border: 1px solid gray;
     background-image: linear-gradient(to right, #f66565 0%, #c96a50 25%, #f68c6563 50%);
 }
-
-.but-gradent:hover {
-    background-position: right center;
-}
